@@ -5,11 +5,6 @@
 <p align="center" width="150px">A passionate coder and programmer. <br> I believe that programming empowers me to bring my ideas to life and create solutions that can help others. <br> I am always eager to learn new technologies and programming languages to expand my skillset and create innovative projects</p>
 
 <br>
-<br>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aepita-Patel&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></p>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gauransh-juneja&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></p>
-<br>
 
 
 ### 🛠 &nbsp;Tech Stack
