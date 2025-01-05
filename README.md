@@ -4,4 +4,3 @@
 
 <p align="center" width="150px">A passionate coder and programmer. <br> I believe that programming empowers me to bring my ideas to life and create solutions that can help others. <br> I am always eager to learn new technologies and programming languages to expand my skillset and create innovative projects</p>
 <br>
-![GitHub Contribution Snake](https://raw.githubusercontent.com/weihao1115/weihao1115/output/github-contribution-grid-snake.svg)
