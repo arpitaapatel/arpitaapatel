@@ -29,7 +29,8 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-**Tech Skills:**
+### Tech Skills
+
 - Programming Languages: Programming Languages: C/C++, Python, Java, Typescript, SQL, HTML — Beginner: R, JavaScript
 - Operating Systems:: Windows, Ubuntu/Linux Databases : MYSQL, DynamoDB
 - Relevant Coursework: Data Structures, Algorithms ,Object-Oriented Programming, Database Management System,
