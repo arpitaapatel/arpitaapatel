@@ -23,13 +23,6 @@
 - Relevant Coursework: Data Structures, Algorithms ,Object-Oriented Programming, Database Management System,
 Operating Systems, Computer Networks, Natural Language Processing ,Software Engineering, Machine Learning
 
-### ⚔️ Challenges on Board
-
-- 🧠 Learning to code 5–6 hours a day with full focus (no distractions!)
-- 🎨 Design as a creative stress reliever 
-- 🧘‍♀️ Practicing a **minimalist & intentional lifestyle**
-- 📚 Exploring advanced AI & NLP research papers regularly
-
 ---
 
 ### 🛠️ Languages & Tools
