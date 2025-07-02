@@ -17,6 +17,12 @@
 
 ---
 
+**Tech Skills:**
+- Programming Languages: Programming Languages: C/C++, Python, Java, Typescript, SQL, HTML — Beginner: R, JavaScript
+- Operating Systems:: Windows, Ubuntu/Linux Databases : MYSQL, DynamoDB
+- Relevant Coursework: Data Structures, Algorithms ,Object-Oriented Programming, Database Management System,
+Operating Systems, Computer Networks, Natural Language Processing ,Software Engineering, Machine Learning
+
 ### ⚔️ Challenges on Board
 
 - 🧠 Learning to code 5–6 hours a day with full focus (no distractions!)
