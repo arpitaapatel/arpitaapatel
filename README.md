@@ -59,7 +59,7 @@ Operating Systems, Computer Networks, Natural Language Processing ,Software Engi
 </p>
 
 
-# 🐍 Hungry Snake:
+:
 <img src="https://raw.githubusercontent.com/Harshit-Dhundale/Harshit-Dhundale/output/snake.svg" alt="Snake animation" />
 
 ---
