@@ -1,6 +1,5 @@
 # Hey there! 👋 😄
 *“Make it work, make it right, make it fast.”* — Kent Beck
-
 A mindset I carry into every line of code and every creative solution.
 
 I’m a passionate and driven Computer Science  undergrad with a deep curiosity for emerging technologies and a strong desire to solve real-world problems through code. I thrive at the intersection of technology, creativity, and impact, consistently seeking opportunities that challenge and sharpen my technical and design skills.
