@@ -70,6 +70,9 @@ Operating Systems, Computer Networks, Natural Language Processing ,Software Engi
   <a href="https://www.linkedin.com/in/arpita-patel-85b39421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/arpitaapatel"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/arpitapatel/"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=flat-square&logo=gmail&logoColor=orage"/></a>
+  <a href="https://www.geeksforgeeks.org/user/arpitapatel2021/"><img src="https://img.shields.io/badge/GFG-FFA116?style=flat-square&logo=geek for geek&logoColor=green"/></a>
+
+  
 
 </p>
 
