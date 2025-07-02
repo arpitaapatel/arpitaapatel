@@ -24,7 +24,7 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Open_to_opportunities-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-ML_%7C_Cloud_%7C_Software_Dev-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-ML_%7C_Software_Dev_%7C_Cloud-blue?style=flat-square" />
 </p>
 
 ---
