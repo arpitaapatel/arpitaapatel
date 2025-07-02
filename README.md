@@ -58,6 +58,10 @@ Operating Systems, Computer Networks, Natural Language Processing ,Software Engi
   <a href="https://github.com/arpitaapatel"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
+
+# 🐍 Hungry Snake:
+<img src="https://raw.githubusercontent.com/Harshit-Dhundale/Harshit-Dhundale/output/snake.svg" alt="Snake animation" />
+
 ---
 
 <p align="center">
