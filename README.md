@@ -1,10 +1,21 @@
 # Hey there! 👋 😄
+“Stay hungry, stay foolish.” — Steve Jobs
+This quote fuels my constant pursuit of growth, innovation, and meaningful impact.
 
-👩‍💻 Hey! I'm **Arpita**, a tech enthusiast and Computer Science undergrad passionate about solving real-world problems with **data-driven solutions**, powerful **ML models**, and clean, efficient code. I love turning ideas into impact through collaborative innovation. 🌱✨
+I’m a passionate and driven Computer Science student with a deep curiosity for emerging technologies and a strong desire to solve real-world problems through code. I thrive at the intersection of technology, creativity, and impact, consistently seeking opportunities that challenge and sharpen my technical and design skills.
 
-🎨 I enjoy working at the intersection of **AI, cloud, and scalable web systems** — blending data, design, and development for purpose-driven outcomes.
+🔧 Tech Side:
+From building scalable systems to experimenting with ML models and full-stack frameworks, I enjoy transforming ideas into functional, elegant solutions. My goal is to create tech that not only works — but matters.
 
-💬 *“Let’s collaborate, create, and code something meaningful!”*
+🎨 Creative Side:
+Design isn’t just a skill; it’s my language. With hands-on experience in graphic design tools, I approach projects with a balance of precision and imagination — be it UI/UX design, digital campaigns, or visual storytelling.
+
+🌱 Mindset:
+Open to new challenges, eager to learn, and driven to create value, I’m excited about shaping the future of tech — one idea at a time.
+
+*Let’s build, innovate, and grow together. 🚀*
+
+
 
 ---
 
