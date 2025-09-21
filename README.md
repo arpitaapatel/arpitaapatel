@@ -10,9 +10,6 @@
 
 ---
 
-### 🎨 Creative Side  
-Design isn’t just a skill; it’s my language. With hands-on experience in graphic design tools, I approach projects with a balance of precision and imagination — be it UI/UX design, digital campaigns, or visual storytelling.
-
 ### 🌱 Mindset  
 Open to new challenges, eager to learn, and driven to create value, I’m excited about shaping the future of tech — one idea at a time.
 
