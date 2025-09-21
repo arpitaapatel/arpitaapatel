@@ -66,13 +66,7 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-### 🐍 Activity Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arpita-Patel/Arpita-Patel/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitaapatel&theme=tokyonight" />
