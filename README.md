@@ -4,15 +4,9 @@
 
 <p align="center">
   <em>
-    B.Tech CSE student at VIT, passionate about AI, problem-solving, and building scalable solutions.<br>
-    Always exploring the intersection of data science, cloud, and intelligent automation.
+    🚀 I turn coffee ☕ and ideas 💡 into code, data models, and cool products. From training ML models to designing full-stack apps, I love building things that actually work (and sometimes surprise me too). When I’m not debugging, you’ll probably find me sketching 🎨 or planning my next road trip.
   </em>
 </p>
-
----
-# Hey there! 👋 😄  
-
-I’m a passionate and driven Computer Science undergrad with a deep curiosity for emerging technologies and a strong desire to solve real-world problems through code. I thrive at the intersection of technology, creativity, and impact, consistently seeking opportunities that challenge and sharpen my technical and design skills.
 
 ---
 
