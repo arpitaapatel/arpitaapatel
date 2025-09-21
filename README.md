@@ -24,7 +24,7 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Open_to_opportunities-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-ML_%7C_Software_Dev_%7C_Cloud-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-ML_%7C_Software_Dev_%7C_AI-blue?style=flat-square" />
 </p>
 
 ---
@@ -54,14 +54,6 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitaapatel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaapatel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
