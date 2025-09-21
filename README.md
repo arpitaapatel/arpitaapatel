@@ -10,14 +10,14 @@
 
 ---
 
-###  Mindset  
+###  Mindset 
 Open to new challenges, eager to learn, and driven to create value, I’m excited about shaping the future of tech — one idea at a time.
 
 *Let’s build, innovate, and grow together. 🚀*
 
 ---
 
-###  Status
+###  Status 
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Open_to_opportunities-green?style=flat-square" />
@@ -26,7 +26,7 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-###  Tech Skills
+###  Tech Skills 
 
 - **Programming Languages**: C/C++, Python, Java, TypeScript, SQL, HTML  
   _Beginner_: R, JavaScript
@@ -37,7 +37,7 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-### 💬 Let's Connect!
+###  Let's Connect!
 
 <p align="center">
   <a href="mailto:arpitaadev.25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
