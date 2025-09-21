@@ -10,14 +10,14 @@
 
 ---
 
-### 🌱 Mindset  
+###  Mindset  
 Open to new challenges, eager to learn, and driven to create value, I’m excited about shaping the future of tech — one idea at a time.
 
 *Let’s build, innovate, and grow together. 🚀*
 
 ---
 
-### 🔥 Status
+###  Status
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Open_to_opportunities-green?style=flat-square" />
@@ -26,7 +26,7 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-### 🧠 Tech Skills
+###  Tech Skills
 
 - **Programming Languages**: C/C++, Python, Java, TypeScript, SQL, HTML  
   _Beginner_: R, JavaScript
