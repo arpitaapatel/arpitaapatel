@@ -4,14 +4,11 @@
 
 <p align="center">
   <em>
-    🚀 I turn coffee ☕ and ideas 💡 into code, data models, and cool products. From training ML models to designing full-stack apps, I love building things that actually work (and sometimes surprise me too). When I’m not debugging, you’ll probably find me sketching 🎨 or planning my next road trip.
+    🚀 I turn coffee ☕ and ideas 💡 into code, data models, and cool products. From training ML models to designing full-stack apps, I love building things that actually work (and sometimes surprise me too).My goal is to create tech that not only works — but matters. When I’m not debugging, you’ll probably find me sketching 🎨 or planning my next road trip.
   </em>
 </p>
 
 ---
-
-### 🔧 Tech Side  
-From building scalable systems to experimenting with ML models and full-stack frameworks, I enjoy transforming ideas into functional, elegant solutions. My goal is to create tech that not only works — but matters.
 
 ### 🎨 Creative Side  
 Design isn’t just a skill; it’s my language. With hands-on experience in graphic design tools, I approach projects with a balance of precision and imagination — be it UI/UX design, digital campaigns, or visual storytelling.
