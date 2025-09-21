@@ -1,3 +1,15 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=45&lines=Hi+there,+I'm+Arpita+Patel;+Software+Developer+AI+%7C+ML+%7C+Enthusiast" />
+</h1>
+
+<p align="center">
+  <em>
+    B.Tech CSE student at VIT, passionate about AI, problem-solving, and building scalable solutions.<br>
+    Always exploring the intersection of data science, cloud, and intelligent automation.
+  </em>
+</p>
+
+---
 # Hey there! 👋 😄  
 
 I’m a passionate and driven Computer Science undergrad with a deep curiosity for emerging technologies and a strong desire to solve real-world problems through code. I thrive at the intersection of technology, creativity, and impact, consistently seeking opportunities that challenge and sharpen my technical and design skills.
