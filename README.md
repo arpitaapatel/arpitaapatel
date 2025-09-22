@@ -71,4 +71,4 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-<p align="center"><i>“Let’s build, innovate, and grow together. 🚀.”</i></p>
+<p align="center"><i>“Let’s build, innovate, and grow together.”</i></p>
