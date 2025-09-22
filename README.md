@@ -11,10 +11,7 @@
 ---
 
 ###  Mindset 
-Open to new challenges, eager to learn, and driven to create value, I’m excited about shaping the future of tech — one idea at a time.
-
-*Let’s build, innovate, and grow together. 🚀*
-
+Open to new challenges, eager to learn, and driven to create value, I’m excited about shaping the future of tech.
 ---
 
 ###  Status 
@@ -74,4 +71,4 @@ Open to new challenges, eager to learn, and driven to create value, I’m excite
 
 ---
 
-<p align="center"><i>“Dream big, debug smart, deliver excellence.”</i></p>
+<p align="center"><i>“*Let’s build, innovate, and grow together. 🚀*.”</i></p>
