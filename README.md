@@ -24,8 +24,7 @@
 
 ###  Tech Skills 
 
-- **Programming Languages**: C/C++, Python, Java, TypeScript, SQL, HTML  
-  _Beginner_: R, Java
+- **Programming Languages**: C/C++, Python, Java, TypeScript, SQL, HTML  ; _Beginner_: R, Java
 - **Operating Systems**: Windows, Ubuntu/Linux  
 - **Databases**: MySQL, DynamoDB
 - **Relevant Coursework**: Data Structures, Algorithms, OOP, DBMS, OS, Computer Networks, NLP, Software Engineering, Machine Learning
