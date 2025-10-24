@@ -11,7 +11,7 @@
 ---
 
 ###  Mindset 
-<p>Open to new challenges, eager to learn, and driven to create value, I’m excited about shaping the future of tech.</p>
+<p>Curious, adaptable, and ready to take on new challenges in tech.</p>
 
 ###  Status 
 
